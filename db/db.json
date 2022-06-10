@@ -1,19 +1,19 @@
 {
   "notes": [
     {
-      "title": "asdgasdgasg",
-      "text": "gdasgdasg",
-      "id": "535sj6csl47vs4vz"
+      "title": "New note 1",
+      "text": "test",
+      "id": "535sj1ggl47w63st"
     },
     {
-      "title": "New note number 1",
-      "text": "text for note 1\nexample",
-      "id": "535sj11sl47w1d7l"
+      "title": "TODO LIST",
+      "text": "example test",
+      "id": "535sj1ggl47w6bdm"
     },
     {
-      "title": "TODO",
-      "text": "Completed deletion of tasks sucessfully",
-      "id": "535sj11sl47w2hh1"
+      "title": "Another Note",
+      "text": "notes",
+      "id": "535sj1ggl47w6iu7"
     }
   ]
 }
