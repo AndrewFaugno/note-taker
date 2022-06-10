@@ -1,29 +1,19 @@
 {
   "notes": [
     {
-      "id": "0",
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "asdgasdgasg",
+      "text": "gdasgdasg",
+      "id": "535sj6csl47vs4vz"
     },
     {
-      "id": "1",
-      "title": "HomeWork",
-      "text": "Module 11 homework due this sunday"
+      "title": "New note number 1",
+      "text": "text for note 1\nexample",
+      "id": "535sj11sl47w1d7l"
     },
     {
-      "title": "TEST",
-      "text": "text",
-      "id": "2"
-    },
-    {
-      "title": "link html somehow",
-      "text": "remeber how to do things",
-      "id": "3"
-    },
-    {
-      "title": "Test",
-      "text": "Test",
-      "id": "4"
+      "title": "TODO",
+      "text": "Completed deletion of tasks sucessfully",
+      "id": "535sj11sl47w2hh1"
     }
   ]
 }
